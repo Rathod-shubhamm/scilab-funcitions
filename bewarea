@@ -1,0 +1,6 @@
+overview 
+The bwarea function in Octave estimates the area of an object in a binary image
+based on the contribution of diﬀerent fields of diﬀerent pixel patterns. It not only
+counts 1 pixel, but also uses a weighting method to improve the accuracy of field
+measurements. This is an implementation of the octave function in scilab for
+calculating area and also padding images
