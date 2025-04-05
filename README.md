@@ -5,7 +5,7 @@ Welcome to the Scilab Image Processing Toolbox & Development Repo!
 This repository is dedicated to the development and implementation of essential image processing functions in Scilab, aimed at extending and enhancing Scilab's native capabilities for academic, research, and practical use.
 
 ✨ What's Inside?
-This repository includes Scilab implementations of commonly used image processing functions, such as:
+This repository includes Scilab implementations of commonly used image processing functions of :
 
 🧮 bwarea – Calculates the area of binary images using 2D convolution and pixel configuration detection.
 
