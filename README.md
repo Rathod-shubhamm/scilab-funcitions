@@ -28,5 +28,4 @@ Help students and developers understand the inner workings of common image proce
 Contribute to the open-source Scilab ecosystem by implementing missing or custom functions.
 
 🚧 Work in Progress
-This repository is actively maintained and under development. More functions, test cases, and documentation will be added soon!
-
+This repository is actively maintained and under development.
